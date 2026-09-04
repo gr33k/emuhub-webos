@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "repository": "gr33k/emuhub-webos",
+  "scope": "emuhub-client-documentation",
+  "sourceReviewedAt": "2026-09-03",
+  "sourceExportComplete": false,
+  "clientBinaryPublished": false,
+  "sourceFingerprints": [
+    {
+      "file": "8Bitdo_SF30_Pro_webOS.cfg",
+      "sha256": "99866d3a883d9d8fcad85d0056fb0b933d7c0156fdc29f7432b3ba751d002f12"
+    },
+    {
+      "file": "index.html",
+      "sha256": "8139513c4356539f07a1e84ac95fd36777a24720ccecb22281f51ca8a4bedc65"
+    }
+  ],
+  "files": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/controller_mapping.md",
+    ".github/workflows/docs.yml",
+    "CONTRIBUTING.md",
+    "LICENSING.md",
+    "README.md",
+    "SECURITY.md",
+    "docs/wiki/Client-Family.md",
+    "docs/wiki/Compatibility-and-Testing.md",
+    "docs/wiki/Controller-Mapping.md",
+    "docs/wiki/Getting-Started.md",
+    "docs/wiki/Home.md",
+    "docs/wiki/Troubleshooting.md",
+    "docs/wiki/_Footer.md",
+    "docs/wiki/_Sidebar.md",
+    "tools/check-docs.mjs"
+  ]
+}

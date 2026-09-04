@@ -1,0 +1,1 @@
+EmuHub webOS client documentation. Source-reviewed does not mean device-qualified. [Security](https://github.com/gr33k/emuhub-webos/security) | [Contribute](https://github.com/gr33k/emuhub-webos/blob/main/CONTRIBUTING.md)
