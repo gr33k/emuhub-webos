@@ -15,8 +15,7 @@ universal hotkey combination. Stop/Exit behavior must be qualified per TV model.
 ## 8BitDo SF30 Pro, SDL GameController profile
 
 The inspected `8Bitdo_SF30_Pro_webOS.cfg` targets the SDL GameController mapping,
-not raw Linux event indices. These indices must not be copied into the iOS or
-Fire TV input layer.
+not raw Linux event indices. Use only the matching input profile.
 
 | Logical input | SDL button / axis |
 | --- | --- |
