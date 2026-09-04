@@ -9,6 +9,7 @@ The EmuHub TV shell, controller integration, and supported native-runtime compan
 
 - [Getting Started](Getting-Started.md)
 - [Controller Mapping](Controller-Mapping.md)
+- [PlayStation Xbox and 8BitDo](PlayStation-Xbox-and-8BitDo.md)
 - [Client Family](Client-Family.md)
 - [Compatibility and Testing](Compatibility-and-Testing.md)
 - [Troubleshooting](Troubleshooting.md)
